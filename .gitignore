@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 db/*
 research/test_repo/*
+research/test_repo*
 research/db/*
 .Python
 build/
